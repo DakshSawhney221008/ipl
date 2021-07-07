@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-align: center;
+    background-image: url("https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c3RhZGl1bXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+button{
+    padding: 10px;
+    width: 80px;
+    font-size: 18px;
+    font-weight: bold;
+}
